@@ -9,7 +9,7 @@ pipeline{
 	  
 	  stage("checkout"){
 	   steps{
-	   git 'https://github.com/nishankainfo/webapp.git'
+	   git 'https://github.com/sambitswain2021-ui/webapp-tomcat-deploy.git'
 	   }
 	                  }
 	
